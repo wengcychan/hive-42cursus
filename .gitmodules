@@ -4,3 +4,6 @@
 [submodule "42cursus-gnl"]
 	path = 42cursus-gnl
 	url = https://github.com/wengcychan/42cursus-gnl.git
+[submodule "42cursus-ft_printf"]
+	path = 42cursus-ft_printf
+	url = https://github.com/wengcychan/42cursus-ft_printf.git
