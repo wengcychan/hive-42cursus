@@ -7,3 +7,6 @@
 [submodule "42cursus-ft_printf"]
 	path = 42cursus-ft_printf
 	url = https://github.com/wengcychan/42cursus-ft_printf.git
+[submodule "42cursus-philo"]
+	path = 42cursus-philo
+	url = https://github.com/wengcychan/42cursus-philo.git
