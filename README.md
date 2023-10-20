@@ -10,24 +10,83 @@ You can find more information about Hive and 42 on the [Hive official website](h
 
 ## 🚀 Skills Developed
 
-| Project                                | Skills                                             |
-| -------------------------------------- | -------------------------------------------------- |
-| <td colspan=2> **Algorithms**         															          |
-| [**ft_printf**](42cursus-ft_printf)  | `variadic function`                                |
-| [**push_swap**](42cursus-push_swap)  | `sorting algorithm` `stack manipulation`           |
-| <td colspan=2> **Graphics**         															              |
-| [**Fdf**](42cursus-fdf)              | `graphics library` `3D to 2D projection` `events`  |
-| MiniRT                                 | `raytracing`                                       |
-| <td colspan=2> **System Administration**         					                        		      |
-| Born2beroot					         | `virtual machine` `shell scripting`	              |
-| NetPractice                            | `network` `IP`                                     |
-| <td colspan=2> **Unix**         												            			      |
-| Pipex                                  | `pipe`                                             |
-| Minishell                              | `shell` `process`                                  |
-| [**Philosophers**](42cursus-philo)   | `concurrent programming` `thread` `mutex`          |
-| <td colspan=2> **Basics of C**         															          |
-| [**Libft**](42cursus-libft)          | `library` `Makefile`                               |
-| [**get_next_line**](42cursus-gnl)    | `static variable` `file descriptor`                |
-| <td colspan=2> **Basics of C++**         															      |
-| CPP Module 00-04                       |                                                    |
-| CPP Module 05-09                       |                                                    |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" align="center"><strong>Algorithms</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-ft_printf.git">ft_printf</a></td>
+      <td><code>variadic function</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-push_swap.git">push_swap</a></td>
+      <td><code>sorting algorithm</code> <code>stack manipulation</code></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Graphics</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-fdf.git">Fdf</a></td>
+      <td><code>graphics library</code> <code>3D to 2D projection</code> <code>events</code></td>
+    </tr>
+    <tr>
+      <td>MiniRT</td>
+      <td><code>raytracing</code></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>System Administration</strong></td>
+    </tr>
+    <tr>
+      <td>Born2beroot</td>
+      <td><code>virtual machine</code> <code>shell scripting</code></td>
+    </tr>
+    <tr>
+      <td>NetPractice</td>
+      <td><code>network</code> <code>IP</code></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Unix</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-philo.git">Philosophers</a></td>
+      <td><code>concurrent programming</code> <code>thread</code> <code>mutex</code></td>
+    </tr>
+    <tr>
+      <td>Pipex</td>
+      <td><code>pipe</code></td>
+    </tr>
+    <tr>
+      <td>Minishell</td>
+      <td><code>shell</code> <code>process</code></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Basics of C</strong></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-libft.git">Libft</a></td>
+      <td><code>library</code> <code>Makefile</code></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/wengcychan/42cursus-gnl.git">get_next_line</a></td>
+      <td><code>static variable</code> <code>file descriptor</code></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><strong>Basics of C++</strong></td>
+    </tr>
+    <tr>
+      <td>CPP Module 00-04</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CPP Module 05-09</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
