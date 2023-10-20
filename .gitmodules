@@ -13,3 +13,6 @@
 [submodule "42cursus-fdf"]
 	path = 42cursus-fdf
 	url = https://github.com/wengcychan/42cursus-fdf.git
+[submodule "42cursus-push_swap"]
+	path = 42cursus-push_swap
+	url = https://github.com/wengcychan/42cursus-push_swap.git
