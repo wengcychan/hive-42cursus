@@ -19,17 +19,6 @@ You can find more information about Hive and 42 on the [Hive official website](h
   </thead>
   <tbody>
     <tr>
-      <td colspan="2"><strong> Algorithms 🧮 </strong></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/wengcychan/42cursus-ft_printf.git">ft_printf</a></td>
-      <td><code>variadic function</code></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/wengcychan/42cursus-push_swap.git">push_swap</a></td>
-      <td><code>sorting algorithm</code> <code>stack manipulation</code></td>
-    </tr>
-    <tr>
       <td colspan="2"><strong> Graphics 🖼️ </strong></td>
     </tr>
     <tr>
@@ -41,15 +30,15 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>raytracing</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong> System Administration ⚙️ </strong></td>
+      <td colspan="2"><strong> Algorithms 🧮 </strong></td>
     </tr>
     <tr>
-      <td>Born2beroot</td>
-      <td><code>virtual machine</code> <code>shell scripting</code></td>
+      <td><a href="https://github.com/wengcychan/42cursus-push_swap.git">push_swap</a></td>
+      <td><code>sorting algorithm</code> <code>stack manipulation</code></td>
     </tr>
     <tr>
-      <td>NetPractice</td>
-      <td><code>network</code> <code>IP</code></td>
+      <td><a href="https://github.com/wengcychan/42cursus-ft_printf.git">ft_printf</a></td>
+      <td><code>variadic function</code></td>
     </tr>
     <tr>
       <td colspan="2"><strong> Unix 💻 </strong></td>
@@ -59,12 +48,23 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>concurrent programming</code> <code>thread</code> <code>mutex</code></td>
     </tr>
     <tr>
+      <td>Minishell</td>
+      <td><code>shell</code> <code>process</code></td>
+    </tr>
+    <tr>
       <td>Pipex</td>
       <td><code>pipe</code></td>
     </tr>
     <tr>
-      <td>Minishell</td>
-      <td><code>shell</code> <code>process</code></td>
+      <td colspan="2"><strong> System Administration ⚙️ </strong></td>
+    </tr>
+    <tr>
+      <td>Born2beroot</td>
+      <td><code>virtual machine</code> <code>shell scripting</code></td>
+    </tr>
+    <tr>
+      <td>NetPractice</td>
+      <td><code>network</code> <code>IP</code></td>
     </tr>
     <tr>
       <td colspan="2"><strong> Basics of C 📗 </strong></td>
