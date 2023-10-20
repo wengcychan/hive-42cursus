@@ -19,7 +19,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
   </thead>
   <tbody>
     <tr>
-      <td colspan="2"><strong>Algorithms</strong></td>
+      <td colspan="2" align="center"><strong>Algorithms</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wengcychan/42cursus-ft_printf.git">ft_printf</a></td>
@@ -30,7 +30,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>sorting algorithm</code> <code>stack manipulation</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Graphics</strong></td>
+      <td colspan="2" align="center"><strong>Graphics</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wengcychan/42cursus-fdf.git">Fdf</a></td>
@@ -41,7 +41,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>raytracing</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong>System Administration</strong></td>
+      <td colspan="2" align="center"><strong>System Administration</strong></td>
     </tr>
     <tr>
       <td>Born2beroot</td>
@@ -52,7 +52,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>network</code> <code>IP</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Unix</strong></td>
+      <td colspan="2" align="center"><strong>Unix</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wengcychan/42cursus-philo.git">Philosophers</a></td>
@@ -67,7 +67,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>shell</code> <code>process</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Basics of C</strong></td>
+      <td colspan="2" align="center"><strong>Basics of C</strong></td>
     </tr>
     <tr>
       <td><a href="https://github.com/wengcychan/42cursus-libft.git">Libft</a></td>
@@ -78,7 +78,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>static variable</code> <code>file descriptor</code></td>
     </tr>
     <tr>
-      <td colspan="2"><strong>Basics of C++</strong></td>
+      <td colspan="2" align="center"><strong>Basics of C++</strong></td>
     </tr>
     <tr>
       <td>CPP Module 00-04</td>
