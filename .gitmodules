@@ -16,3 +16,9 @@
 [submodule "42cursus-push_swap"]
 	path = 42cursus-push_swap
 	url = https://github.com/wengcychan/42cursus-push_swap.git
+[submodule "42cursus-miniRT"]
+	path = 42cursus-miniRT
+	url = https://github.com/wengcychan/42cursus-miniRT.git
+[submodule "42cursus-minishell"]
+	path = 42cursus-minishell
+	url = https://github.com/wengcychan/42cursus-minishell.git
