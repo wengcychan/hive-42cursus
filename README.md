@@ -26,7 +26,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>graphics library</code> <code>3D to 2D projection</code> <code>events</code></td>
     </tr>
     <tr>
-      <td>MiniRT</td>
+      <td><a href="https://github.com/wengcychan/42cursus-miniRT.git">MiniRT</td>
       <td><code>raytracing</code></td>
     </tr>
     <tr>
@@ -48,7 +48,7 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td><code>concurrent programming</code> <code>thread</code> <code>mutex</code></td>
     </tr>
     <tr>
-      <td>Minishell</td>
+      <td><a href="https://github.com/wengcychan/42cursus-minishell.git">Minishell</td>
       <td><code>shell</code> <code>process</code></td>
     </tr>
     <tr>
