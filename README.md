@@ -81,12 +81,8 @@ You can find more information about Hive and 42 on the [Hive official website](h
       <td colspan="2"><strong> Basics of C++ 📘 </strong></td>
     </tr>
     <tr>
-      <td>CPP Module 00-04</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>CPP Module 05-09</td>
-      <td></td>
+      <td><a href="https://github.com/wengcychan/42cursus-cpp.git">CPP Module</a></td>
+      <td><code>C++</code></td>
     </tr>
   </tbody>
 </table>
