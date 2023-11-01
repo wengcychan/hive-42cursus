@@ -22,3 +22,6 @@
 [submodule "42cursus-minishell"]
 	path = 42cursus-minishell
 	url = https://github.com/wengcychan/42cursus-minishell.git
+[submodule "42cursus-cpp"]
+	path = 42cursus-cpp
+	url = https://github.com/wengcychan/42cursus-cpp.git
